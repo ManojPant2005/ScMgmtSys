@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dihC/hFaQW4=",
+  "success": true,
+  "projectFilePath": "D:\\Learn\\Angular\\ScMgmtSys\\backend\\ScMgmt.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pantm\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\pantm\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
