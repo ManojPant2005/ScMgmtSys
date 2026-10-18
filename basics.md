@@ -1,0 +1,1 @@
+To Communicate, Angular must call a WEB API. The server handles the request and responds with data.
